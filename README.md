@@ -1,4 +1,4 @@
-# Tic Tag Toe React Tutorial
+# Tic Tak Toe React Tutorial
 
 ![Game Sample](https://github.com/eduardoalba/tic-tac-toe-react-tutorial/blob/master/public/assets/readme-sample.png)
 
